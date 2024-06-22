@@ -1,0 +1,7 @@
+echo "# DWD" >> README.md 
+git init 
+git add README.md 
+git commit -m "Vida Inexplicable" 
+git rama -M principal 
+git remoto agregar origen https://github.com/Devid-source/DWD.git
+ git push -u origen principal
